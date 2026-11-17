@@ -2,7 +2,7 @@
 
 CFO based in Barcelona. I build at the intersection of AI and finance: agents that run finance work, the controls that keep them honest, and models for the people who carry the number.
 
-**Lab:** [bielr.com](https://bielr.com) · **Writing:** [Substack](https://bielrv.substack.com)
+**Lab:** [bielr.com](https://bielr.com) · **Writing:** [Substack](https://bielrv.substack.com) · **Contact:** [LinkedIn](https://www.linkedin.com/in/gabrielrosinol)
 
 ## Selected work
 
